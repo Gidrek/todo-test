@@ -1,0 +1,14 @@
+{
+  "stages": {
+    "dev": {
+      "autogen_policy": false,
+      "api_gateway_stage": "api",
+      "environment_variables": {
+        "APP_TABLE_NAME": "todo-app-2628a734-56a5-47b2-a82c-11b3efe6ef20",
+        "USERS_TABLE_NAME": "users-app-d2a006fc-64f0-43a2-8bcc-7b61f76534ee"
+      }
+    }
+  },
+  "version": "2.0",
+  "app_name": "mytodo"
+}
